@@ -56,10 +56,10 @@
   align-items: center;
   width: 500px;
   height: 500px;
-  background: #F0FFF0;
+  background: #D3D3D3;
   border-radius: 50%;
   border: 25px solid #031540;
-  outline: 25px solid #F0FFF0;
+  outline: 25px solid #D3D3D3;
 }
 
 .home-image img {
