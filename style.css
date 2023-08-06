@@ -43,7 +43,7 @@
 
 .home {
   height: 100vh;
-  background: linear-gradient(-90deg, #C0C0C0 65%, #fff 35%);
+  background: linear-gradient(-90deg, #C0C0C0 65%, #708090 35%);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -58,7 +58,7 @@
   height: 500px;
   background: #C0C0C0;
   border-radius: 50%;
-  border: 25px solid #031540;
+  border: 25px solid #708090;
   outline: 25px solid #C0C0C0;
 }
 
@@ -68,7 +68,7 @@
 
 .home-content {
   max-width: 600px;
-  color: #fff;
+  color: #708090;
   text-align: right;
 }
 
