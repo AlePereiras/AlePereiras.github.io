@@ -63,9 +63,6 @@
 }
 
 .home-image img {
-  position: relative;
-  bottom: 22px;
-  max-width: 380px;
   width: 30px;
 }
 
