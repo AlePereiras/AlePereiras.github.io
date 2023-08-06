@@ -38,7 +38,7 @@
 
 .navbar a:hover,
 .navbar a.active {
-  color: #00abf0;
+  color: #2F4F4F;
 }
 
 .home {
@@ -81,7 +81,7 @@
   font-size: 40px;
   color: transparent;
   -webkit-text-stroke: .5px #708090;
-  background-image: linear-gradient(#00abf0, #00abf0);
+  background-image: linear-gradient(#2F4F4F, #2F4F4F);
   background-repeat: no-repeat;
   -webkit-background-clip: text;
   background-position: -410px 0;
@@ -116,29 +116,29 @@
   border: 2px solid #708090;
   border-radius: 50%;
   font-size: 20px;
-  color: #00abf0;
+  color: #2F4F4F;
   text-decoration: none;
   margin-left: 12px;
   transition: .5s;
 }
 
 .home-scl a:hover {
-  background: #00abf0;
+  background: #2F4F4F;
   color: #708090;
-  border-color: #00abf0;
-  box-shadow: 0 0 10px #00abf0;
+  border-color: #2F4F4F;
+  box-shadow: 0 0 10px #2F4F4F;
 }
 
 .btn {
   padding: 12px 35px;
-  background: #00abf0;
+  background: #2F4F4F;
   border-radius: 40px;
   font-size: 17px;
   color: #708090;
   text-decoration: none;
   font-weight: 600;
   letter-spacing: 1px;
-  box-shadow: 0 0 10px #00abf0;
+  box-shadow: 0 0 10px #2F4F4F;
   transition: .5s;
 }
 
